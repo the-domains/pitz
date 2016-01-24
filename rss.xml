@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[pitz]]></title>
         <description><![CDATA[pitz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pitz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 21:08:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 21:20:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pitz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sobre o PiTZ]]></title>
+            <description><![CDATA[<article><h1>Sobre o PiTZ</h1><p>PiTZ | Pilates Training Zone. Espaço destinado à prática de Pilates, onde exercício físico e saúde se combinam de forma equilibrada.</p></article>]]></description>
+            <link>https://thegrid.ai/pitz/sobre-o-pitz/index.html</link>
+            <guid isPermaLink="false">33e266fd-75ab-4b55-87ce-571fdc4cad1a</guid>
+            <pubDate>Sun, 24 Jan 2016 21:20:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WORKSHOPS STOTT PILATES® ]]></title>
             <description><![CDATA[<article><h1>WORKSHOPS STOTT PILATES® </h1><h2>Informação:</h2><p>DATA:30 e 31de Janeiro de 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/862ebaf8216586166cb4052bb4242a641743f1d0.jpg"></article>]]></description>
-            <link>undefined24a9522f-a155-4dd3-b992-bc0ef13068a8/index.html</link>
+            <link>https://thegrid.ai/pitz/24a9522f-a155-4dd3-b992-bc0ef13068a8/index.html</link>
             <guid isPermaLink="false">24a9522f-a155-4dd3-b992-bc0ef13068a8</guid>
             <pubDate>Sun, 24 Jan 2016 21:08:03 GMT</pubDate>
         </item>
