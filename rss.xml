@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[pitz]]></title>
+        <description><![CDATA[pitz]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 21:08:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WORKSHOPS STOTT PILATES® ]]></title>
+            <description><![CDATA[<article><h1>WORKSHOPS STOTT PILATES® </h1><h2>Informação:</h2><p>DATA:30 e 31de Janeiro de 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/862ebaf8216586166cb4052bb4242a641743f1d0.jpg"></article>]]></description>
+            <link>undefined24a9522f-a155-4dd3-b992-bc0ef13068a8/index.html</link>
+            <guid isPermaLink="false">24a9522f-a155-4dd3-b992-bc0ef13068a8</guid>
+            <pubDate>Sun, 24 Jan 2016 21:08:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
