@@ -2,6 +2,7 @@ name: pitz
 favicon: null
 layout_spectrum: 0.25
 typography_spectrum: 0.48105
+title: Pilates Training Zone
 cta:
   domain: null
   bucket: null
