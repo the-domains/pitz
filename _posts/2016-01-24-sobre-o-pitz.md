@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-24T21:20:21.188Z'
-dateModified: '2016-01-24T21:20:05.918Z'
+datePublished: '2016-01-25T01:21:54.636Z'
+dateModified: '2016-01-25T01:21:41.619Z'
 title: Sobre o PiTZ
 author: []
 authors: []
@@ -22,6 +22,8 @@ url: sobre-o-pitz/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db58b518-6051-4f4d-ab46-dd2a2eb4aac9.jpg)
+
 PiTZ | Pilates Training Zone. Espaço destinado à prática de Pilates, onde exercício físico e saúde se combinam de forma equilibrada.
 
 PiTZ é uma aposta clara na prática de exercício físico de forma segura. Pretende proporcionar um acompanhamento abrangente, do cliente em reabilitação ao atleta de elite. Para isso, conta com a presença de instrutores que se pautam pela formação de elevado nível de qualidade e procura permanente de atualização do conhecimento, segundo as linhas orientadoras das últimas investigações e progressos no campo do treino e da reabilitação.
