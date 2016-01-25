@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T01:21:54.636Z'
+datePublished: '2016-01-25T01:21:54.725Z'
 dateModified: '2016-01-25T01:21:41.619Z'
 title: Sobre o PiTZ
 author: []
